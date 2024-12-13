@@ -1,0 +1,1 @@
+from conflict_detection.conflict_detector import ConflictDetector

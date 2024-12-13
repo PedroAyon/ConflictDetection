@@ -1,0 +1,29 @@
+Thank you for calling, how can I assist you today?
+
+Hi, I placed an order last week, and I haven’t received a shipping confirmation yet. I was wondering if there’s been a delay?
+
+I’m sorry for the delay! I’ll certainly look into that for you. Could I have your order number, please?
+
+Sure, it’s 9876543.
+
+Thank you. Let me check the status of your order… It looks like your order is still processing, and the shipping label hasn’t been created yet. It appears there was a slight hold-up with our warehouse team. I apologize for this.
+
+Oh, that’s frustrating. Do you know when it will ship out?
+
+I can see that it’s scheduled to ship within the next 48 hours. You should receive a shipping confirmation email with tracking information once it’s on its way. I understand waiting for your order can be inconvenient, and I truly appreciate your patience.
+
+Alright, that sounds good. But do you think it will arrive before the weekend?
+
+Since it will ship out in the next 48 hours, it should arrive early next week. However, I can offer you expedited shipping if you need the item sooner. Would that be helpful?
+
+Yes, that would be great! Could you switch it to expedited shipping?
+
+I’ll make that adjustment for you right now. I’ve upgraded your shipping, so you should receive it by the end of this week. I’ll send you an updated confirmation email shortly with the new tracking details.
+
+Thank you so much for helping me with this!
+
+You're welcome! I apologize again for the delay, and I’m glad we could get this sorted out. If you need anything else or have more questions, feel free to reach out. Have a wonderful day!
+
+Thanks again! I really appreciate it!
+
+You're very welcome! Take care!
