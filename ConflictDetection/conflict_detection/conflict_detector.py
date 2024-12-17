@@ -21,11 +21,12 @@ class ConflictDetector:
         for exchange in exchanges:
             try:
                 # Split into speaker and sentence
-                _, sentence = exchange.split(":", 1)
-                sentiment = self.sentiment_analyzer(sentence.strip())[0]
+                sentiment = self.sentiment_analyzer(exchange)
                 # Conflict detection logic
-                if sentiment['label'] == "NEGATIVE" and sentiment['score'] > 0.7:
-                    return True  # Conflict detected
+                sentiment_result = sentiment[0]  # Extract the first result
+                if sentiment_result['label'] == "NEGATIVE" and sentiment_result['score'] > 0.7:
+                    return True
+
             except ValueError:
                 # Skip malformed lines
                 continue
